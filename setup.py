@@ -9,7 +9,7 @@ def long_description():
 
 setuptools.setup(
     name="async-cached",
-    version="3.11.1",
+    version="3.11.2",
     author="aiocoro",
     author_email="aiocoro@protonmail.ch",
     description="Decorator to cache async function results",
